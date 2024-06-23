@@ -1,5 +1,6 @@
 package com.avdhesh.fluxkart.entity;
 
-public class LinkPrecedence {
-    
+public enum LinkPrecedence {
+    PRIMARY,
+    SECONDARY
 }
